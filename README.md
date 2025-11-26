@@ -66,7 +66,7 @@ bash
 ## For development
 flutter run
 
-## ##For production build
+##For production build
 flutter build apk
 #📁 Project Structure
 text
