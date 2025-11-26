@@ -56,19 +56,19 @@ git clone https://github.com/SilensorFarouk/florian_app.git
 cd florian_app2. Install Dependencies
 bash
 flutter pub get
-#3. Configure Environment (Optional)
+###3. Configure Environment (Optional)
 Create a .env file for API keys:
 
 dart
 GOOGLE_MAPS_API_KEY=your_maps_api_key_here
-#4. Run the Application
+####4. Run the Application
 bash
 ## For development
 flutter run
 
-## For production build
+## ##For production build
 flutter build apk
-📁 Project Structure
+####📁 Project Structure
 text
 lib/
 ├── models/
@@ -105,7 +105,7 @@ SMS (for alert messages)
 
 Camera (future feature)
 
-🎯 Usage Guide
+####🎯 Usage Guide
 Emergency Mode
 Tap the large red emergency button
 
